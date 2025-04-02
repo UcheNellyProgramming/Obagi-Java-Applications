@@ -7,6 +7,8 @@ public class Operators{
 		int num1 = 13;
 		int num2 = 5;
 		
+		num1 += num2;
+		
 		//  num1 = 13; and  num2 = 5; another way to assign a variable
 		
 		//Arithmetic Operator(+c,*,-,/,%)
